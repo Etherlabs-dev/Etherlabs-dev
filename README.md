@@ -1,20 +1,64 @@
-💳 Building financial automation systems | Fintech founder running a credit card Startup
+### Forward-Deployed AI & Financial Systems Engineer
 
-I help growth companies ($1M-50M) eliminate manual financial processes using the same battle-tested systems I built for my startup with 203+ users processing real transactions.
+**Production AI · Model Evaluation & Adaptation · Payments · Risk · Financial Operations**
 
-**What I build:**
-- Revenue leakage detection systems
-- Multi-processor payment reconciliation  
-- Cash flow forecasting engines
-- Commission automation
-- Embedded finance operations
+I build systems at the intersection of AI, financial operations and technical delivery.
 
-**Tech Stack:**
-n8n • Supabase • Flutterflow • Python • Stripe/Payment/Open Banking APIs/Unit APIs
+My work turns complex operational problems — payment reconciliation, failed-payment recovery, credit/risk workflows, financial visibility and AI evaluation — into measurable, auditable systems.
 
-Every system here is running in production with real money. No theory, just battle-tested automation.
+I work across the full delivery path:
 
-🔨 Currently: 30-Day Financial Automation Build Challenge
+**Discovery → Architecture → Data → APIs → Business Logic → AI/ML → Evaluation → Deployment → Monitoring**
+
+---
+
+## Current Focus
+
+### IntelligenceOS — Domain AI for Finance & Risk
+
+I’m building IntelligenceOS in public: an applied AI system spanning domain-data preparation, evaluation, model adaptation, agent workflows, verification and production deployment.
+
+Current work includes:
+
+- ML and LLM evaluation infrastructure
+- Finance/risk dataset engineering
+- Model adaptation and fine-tuning experiments
+- Production AI deployment patterns
+- Financial operations systems
+
+---
+
+## Selected Engineering Work
+
+| Project | Focus | Evidence |
+|---|---|---|
+| **eval-harness** | Model evaluation & financial-risk ML | Reproducible benchmark |
+| **ios-risk-data-foundry** | Domain data engineering | Validated pipeline + benchmark |
+| **multi-processor-reconciliation** | Payment reconciliation architecture | Reference implementation |
+| **payment_recovery_engine** | Failed-payment recovery | Validated simulation / reference implementation |
+| **cashflow-forecasting-engine** | Cash forecasting & decision support | Reference implementation |
+
+---
+
+## Engineering Focus
+
+Python · PostgreSQL · Supabase · APIs · Financial Systems ·
+AI Evaluation · RAG · Model Adaptation · Workflow Orchestration ·
+System Design · Testing · Deployment · Observability
+
+---
+
+## Evidence Standard
+
+Public projects are explicitly labelled as:
+
+**Production · Anonymized Production Case · Validated Prototype · Reference Implementation · Benchmark**
+
+Simulated, benchmarked and projected results are never presented as verified client outcomes.
+
+---
+
+Building **IntelligenceOS** and documenting the engineering behind production AI + financial systems.
 
 
 <!---
