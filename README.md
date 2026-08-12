@@ -26,6 +26,7 @@ Current work includes:
 - Production AI deployment patterns
 - Financial operations systems
 
+Follow my work on Substack: https://theintelligenceos.substack.com/
 ---
 
 ## Selected Engineering Work
