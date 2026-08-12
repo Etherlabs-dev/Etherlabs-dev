@@ -27,6 +27,7 @@ Current work includes:
 - Financial operations systems
 
 Follow my work on Substack: https://theintelligenceos.substack.com/
+
 ---
 
 ## Selected Engineering Work
