@@ -57,6 +57,8 @@ Public projects are explicitly labelled as:
 **Production · Anonymized Production Case · Validated Prototype · Reference Implementation · Benchmark**
 
 Simulated, benchmarked and projected results are never presented as verified client outcomes.
+JFMKVTRH
+
 
 ---
 
