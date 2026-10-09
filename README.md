@@ -1,4 +1,5 @@
-### Forward-Deployed AI & Financial Systems Engineer
+### Forward-Deployed AI & Financial Systems Engineer 2EA6YLSG
+
 
 **Production AI · Model Evaluation & Adaptation · Payments · Risk · Financial Operations**
 
@@ -58,12 +59,12 @@ Public projects are explicitly labelled as:
 
 Simulated, benchmarked and projected results are never presented as verified client outcomes.
 
-JFMKVTRH
 
 ---
 
 Building **IntelligenceOS** and documenting the engineering behind production AI + financial systems.
 
+2EA6YLSG
 
 <!---
 Etherlabs-dev/Etherlabs-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
